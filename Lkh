@@ -5,4 +5,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ferhh66565hhuh/dgfgb.git
 git push -u origin main
-warp://p1@188.114.97.223:456/?ifp=10-20&ifpd=20-30&ifpd=30-40&ifpm=m4#w1&&detour=warp://p2@188.114.97.223:456/?ifp=10-/20&ifpd=20-30& ifpd=30-40&ifpm=m4#w2
+warp://188.114.97.223:456?ifp=10-20&ifpd=20-30&ifpd=30-40&ifpm=m4#w1&&detour=warp://188.114.97.223:456?ifp=10-20&ifpd=20-30& ifpd=30-40&ifpm=m4#w2
